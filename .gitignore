@@ -1,0 +1,5 @@
+venv
+./venv
+/mammoai-analysis-backend/**/__pycache__
+/mammoai-analysis-backend/**/__pycache__/**
+/mammoai-analysis-backend/**/__init__.py
